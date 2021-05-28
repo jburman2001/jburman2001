@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Deep Learning, and Data Analytics
 - 🌱 I’m currently learning C#, Python, and SQL
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
-- 📫 How to reach me via email: jordynburman2001@gmail.com
+- 📫 You can reach out to me via email: jordynburman2001@gmail.com
 
 <!---
 jburman2001/jburman2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
