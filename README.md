@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jburman2001
+- 👋 Hi, I’m Jordyn (@jburman2001)
 - 👀 I’m interested in Data Science, Deep Learning, and Data Analytics
 - 🌱 I’m currently learning C#, Python, and SQL
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
