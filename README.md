@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Jordyn (@jburman2001)
-- 👀 I’m interested in Data Science, Deep Learning, and Data Analytics
-- 🌱 I’m currently learning Java, R, Python, and SQL
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
-- 📫 You can reach out to me via email: jordynburman2001@gmail.com
+# Hi, I'm Jordyn 👋
 
-<!---
-jburman2001/jburman2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Scientist · ML Engineer · QA Engineer**
+
+🔬 MS Data Science & Analytics candidate | ACM published researcher
+🧠 Building predictive models, CNNs, and segmentation pipelines
+🛠️ Currently working with Python, TypeScript, TensorFlow, PyTorch, and Next.js
+📊 Experienced in QA engineering, test automation, and cross-functional analytics at OTR Solutions
+
+### Featured Work
+- 🏠 [Home Price Prediction](https://jordynburman-portfolio.vercel.app/projects/home-prices-ml) — XGBoost regression with 86% accuracy across 81 features
+- 🤟 [ASL Gesture Recognition](https://jordynburman-portfolio.vercel.app/projects/asl-cnn) — CNN for sign language classification
+- 🔬 [Cancer Image Segmentation](https://jordynburman-portfolio.vercel.app/projects/unet-cancer) — Award-winning U-Net research (ACM published)
+
+### Connect
+🌐 [Portfolio](https://jordynburman-portfolio.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/jordyn-burman/) · 📫 jordynburman2001@gmail.com
